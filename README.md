@@ -15,11 +15,12 @@ Eg:
    
 Friends - Assignment on graph structures. Write a program that takes in an input of the names of students and their schools along with their friends. Generate a graph that connects
 students based on their friends and write functions that can find paths between friend connections or group friends within schools.
-Eg:   Bill-Rutgers  <--> Sydney-Rutgers <-->  Rob-Princeton
-          ^                    ^
-          |                    |
-          v                    v
-      Phil-Rutgers <--> Jon-Rutgers
+Eg:   
+*     Bill-Rutgers  <--> Sydney-Rutgers <-->  Rob-Princeton
+*          ^                    ^
+*          |                    |
+*          v                    v
+*      Phil-Rutgers <--> Jon-Rutgers
 
 Expression - Assignment on stacks/queues. Write a program that takes in an input of a mathematical equation, parse the equation then solve it. Also be able to handle array 
 structures and other specified mathematical functions.  
